@@ -28,4 +28,4 @@ jobs:
         run: go version
 
       - name: Build
-        run: go build -v ./...
+        run: go build -v cmd/game/main.go
