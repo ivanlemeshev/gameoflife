@@ -7,6 +7,9 @@
 
 <img src="./gameoflife.gif" width="600" alt="Game of Life"/>
 
+I recently visited a workshop, [9 Steps for Better Object Oriented Design](https://www.meetup.com/tech-excellence-finland/events/304005147/),
+in Helsinki, which gave me an idea for implementing this game.
+
 It is a terminal-based implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 with finite grid. (The cells outside the grid are considered to be dead.)
 
