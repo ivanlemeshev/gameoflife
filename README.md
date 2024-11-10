@@ -1,5 +1,10 @@
 # Game of Life
 
+![Build](https://github.com/ivanlemeshev/gameoflife/actions/workflows/build.yml/badge.svg)
+![Tests](https://github.com/ivanlemeshev/gameoflife/actions/workflows/test.yml/badge.svg)
+![Linter](https://github.com/ivanlemeshev/gameoflife/actions/workflows/lint.yml/badge.svg)
+![Gosec](https://github.com/ivanlemeshev/gameoflife/actions/workflows/sec.yml/badge.svg)
+
 It is a terminal-based implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 with finite grid.
 
