@@ -9,7 +9,7 @@
 
 I recently visited a workshop, [9 Steps for Better Object Oriented Design](https://www.meetup.com/tech-excellence-finland/events/304005147/),
 in Helsinki, which gave me an idea for implementing this game. I did not follow
-strictly the principles represented there. I just wanted to make a game that
+strictly the principles presented there. I just wanted to make a game that
 works in the terminal.
 
 It is a terminal-based implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
