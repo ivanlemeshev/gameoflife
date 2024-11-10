@@ -8,7 +8,7 @@
 <img src="./gameoflife.gif" width="600" alt="Game of Life"/>
 
 It is a terminal-based implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-with finite grid.
+with finite grid. (The cells outside the grid are considered to be dead.)
 
 The Game of Life, also known simply as Life, is a cellular automaton devised by
 the British mathematician John Horton Conway in 1970.
