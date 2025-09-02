@@ -5,7 +5,7 @@ go 1.23.1
 require (
 	github.com/charmbracelet/bubbles v0.21.0
 	github.com/charmbracelet/bubbletea v1.3.4
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.11.1
 )
 
 require (
